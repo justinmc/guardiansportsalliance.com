@@ -1,0 +1,192 @@
+<!-- Turkiball.com, v 3.0 -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">																												<!-- Tells browser what type of html this site uses -->
+
+<html>
+
+<head>
+
+<meta name="keywords" content="Turkiball, sport, sports, Guardian Sports">																<!-- Keywords, mostly for search engine purposes -->
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">																			<!-- What type of content -->
+
+<link REL="SHORTCUT ICON" HREF="../images/favicon.ico">																								<!-- Favicon link -->
+
+<link rel = 'stylesheet' type = "text/css" href = "../style.css">																					<!-- CSS link -->
+
+<script type="text/javascript" src="../scripts/functions.js"></script>
+
+<title> Turkiball - The Feed </title>																																	<!-- Text that shows up on tab in browser -->
+
+</head>																									
+
+<body>
+
+<br>
+<div class = "all">
+
+   <div class = "alltop"></div>
+   <div class = "titlebar">
+      <div class = "title">
+         <a href = "index.html">
+         <img src = "../images/titleinv.jpg" border = "0" alt = "Title">
+         </a>
+      </div>
+   </div>
+   
+   <div class = "news">
+      <ul class = "newslink"><li class =  "active"><a href = "news.html">The Feed</a></ul>
+      <br><br><br>
+      <ul class = "newslink"><li><a href = "news.html">The League</a></ul>
+      <br><br><br>
+      <ul class = "newslink"><li><a href = "news.html">The Board</a></ul>
+      <br><br><br>
+      <div class = "newsline"></div>
+      
+      <div class = "newsitem">    
+         <a href = "http://www.turkiball.com/feed/events/index.php">
+            <img src = "../images/cateventsw.jpg" alt = "Events" width = "150px" height = "30px" border = "0" style = "position: relative; top: -1px; left: -1px;">
+         </a>
+         <h5>Posted 10/08/09</h5>
+         <h4><a href = "http://www.turkiball.com/feed/posts/1.php">Party at the Beach House</a></h4>
+         <h6>By <a href = "http://www.turkiball.com/feed/profiles/justin.php">Justin</a></h6>
+      </div>
+      <div class = "newsitem">    
+         <a href = "http://www.turkiball.com/feed/events/index.php">
+            <img src = "../images/catdevelopmentsw.jpg" alt = "Events" width = "150px" height = "30px" border = "0" style = "position: relative; top: -1px; left: -1px;">
+         </a>
+         <h5>Posted 09/08/09</h5>
+         <h4><a href = "http://www.turkiball.com/feed/posts/1.php">Bats Blow Mold Contract</a></h4>
+         <h6>By <a href = "http://www.turkiball.com/feed/profiles/justin.php">Justin</a></h6>
+      </div>
+      <div class = "newsitem">    
+         <a href = "http://www.turkiball.com/feed/events/index.php">
+            <img src = "../images/catleaguenewsw.jpg" alt = "Events" width = "150px" height = "30px" border = "0" style = "position: relative; top: -1px; left: -1px;">
+         </a>
+         <h5>Posted 09/08/09</h5>
+         <h4><a href = "http://www.turkiball.com/feed/posts/1.php">Turkiball League Season I Started</a></h4>
+         <h6>By <a href = "http://www.turkiball.com/feed/profiles/justin.php">Justin</a></h6>
+      </div>
+      <br><br><br><br>
+      <div class = "advert">
+         <a href = "http://www.turkiball.com">
+         <img src = "../images/advert2.jpg" alt = "turkiball" border = "0">         
+         </a>
+         <h3 style = "position: relative; top: -10px; color: #ffffff;">Advertisement</h3>      
+      </div>
+   </div>
+   <div class = "navleft">
+      <div class = "box">
+         <form method = "post" action = "contact.php">
+         Login Here:
+         <input type = "text" name = "input" value = "Username" onFocus = "clearField(this)" onBlur = "fillField(this, 'Username')" size = "13"><br>
+         <input type = "text" name = "input" value = "Password" onFocus = "clearField(this)" onBlur = "fillField(this, 'Password')" size = "13"><br>
+         <br>
+         <input type = "submit" value = "Go">
+         </form>
+      </div>
+      <div class = "box">
+         <form method = "post" action = "contact.php">
+         <input type = "text" name = "input" value = "Google S.S." onFocus = "clearField(this)" onBlur = "fillField(this, 'Google S.S.')" size = "13">
+         <br><br>
+         <input type = "submit" value = "Go">
+         </form>    
+      </div>
+      <div class = "box">
+         Stuff<br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/teams">Archive</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/teams/rankings">Pictures</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/players">Rulebook</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/rankings">About</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/rankings">Profiles</a></ul><br><br>
+         <br><br>
+      </div>
+      <div class = "box">
+         Categories<br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/teams">Events</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/teams/rankings">League News</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/players">Developments</a></ul><br><br>
+         <ul class = "navbutton"><li><a href = "http://www.turkiball.com/league/rankings">General</a></ul><br><br>
+         <br><br>
+      </div>
+   </div>
+
+   <div class = "content">
+      <div class = "spacer"></div>
+      <h1><a class = "lightbg" href = "http://www.turkiball.com/feed/index.php">THE FEED</a></h1>
+      <br>
+      <div class = "contentline"></div>
+      <h2>Welcome to The Feed</h2> 
+      <p>
+      Here you'll find the latest information about everything Turkiball.  The official Turkiball rules are also located here at the
+      <a class = "lightbg" href = "http://www.turkiball.com/feed/rulebook.php">Rulebook</a>
+      , as well as all of our Turkiball pictures in the
+      <a class = "lightbg" href = "http://www.turkiball.com/feed/pictures.php">Pictures</a>
+      section.
+      </p>
+      <p>
+      Looking for something specific?  Try out a search, or check out one of the category pages to divide the site into only content filed
+      under that category.      
+      </p>
+      <br><br><br>
+      <div class = "contentline"></div>
+      
+      <h2>Turkiball End of the Summer Tour</h2>
+      <h3>Category: <a class = "lightbg" href = "http://www.turkiball.com/feed/entries/1.php">Events</a></h3>
+      <p>
+      Turkiball is going to be all over campus during welcome week before classes start, getting ready for the start of the official
+      Turkiball league.  
+      </p>
+      <h3 style = "text-align: right;">Posted 31/07/09 by <a class = "lightbg" href = "http://www.turkiball.com/feed/profile/justin.php">Justin</a></h3>
+      <br><br><br>
+      <div class = "contentline"></div>
+      
+      <h2>Turkiball Season I</h2>
+      <h3>Category: <a class = "lightbg" href = "http://www.turkiball.com/feed/entries/1.php">League News</a></h3>
+      <p>
+      Club Turkiball is starting up the first Turkiball league ever.  It will be starting up this fall, 2009, at the 
+      University of Michigan.  We're still working on getting everything set up, but expect things to start happening
+      fast.  We'll be recruiting like crazy, so if anyone is interested in become a player, starting your own team,
+      or even just coming out and being a fan, you are more than encouraged to do so.  Find us at one of the
+      <a href = "http://www.turkiball.com/feed/events/index.php">Events</a>
+      we'll be at, or drop us a line at
+      <a href = "mailto: contact@turkiball.com">contact@turkiball.com</a>
+      to let us know what you're interested in.
+      </p>
+      <h3 style = "text-align: right;">Posted 31/07/09 by <a class = "lightbg" href = "http://www.turkiball.com/feed/profile/justin.php">Justin</a></h3>
+      <br><br><br>
+      <div class = "contentline"></div>
+      
+      <br><br><br><br><br><br><br><br><br>
+   </div>
+ 
+    <div class = "sitefooter">
+       <img src = "../images/evofsportbig.jpg" alt = "The Evolution of Sport" style = "position: relative; top: 10px;"> <br>
+       <h3>
+       &copy; 2009 Guardian Sports, Ann Arbor, MI<br>
+       <a class = "lightbg" href = "mailto: contact@turkiball.com">contact@turkiball.com</a>
+       </h3>
+    </div>
+    <div class = "allbottom">
+      <ul class = "navbottom">
+      <li><a href = "something.html">Older Post</a>
+      <li><a href = "something.html">Archive</a>
+      <li><a href = "something.html">Newer Post</a>
+      </ul>    
+    </div>
+       
+</div>
+<!--
+<script type="text/javascript">																															<!-- Google Analytics stuff -->
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6842038-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+
+</html>
